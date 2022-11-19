@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body style="background-color:powderblue;">
+	 <h1 title="Brand name" class="logo-title">
+      <center> <h3 style="color: green;">Admin Profile</h3>
+				</h1>
+  <div class="dropdown">
+  <button class="dropbtn"><b>Home</button>
+  <div class="dropdown-content">
+  <a href="#">My Account</a><br>
+    <a href="#"> Logout</a>
+    
+  </div><br>
+    				</h1>
+  <div class="dropdown">
+  <button class="dropbtn"><b>Dashboard</button>
+  <div class="dropdown-content">
+  <a href="#">View Queries</a><br>
+  <a href="#">Assign Agent</a><br>
+     <a href="#">Change password</a><br>
+  <a href="#">Ticket Status</a><br>
+    
+  </div>
+    </body>
+    
