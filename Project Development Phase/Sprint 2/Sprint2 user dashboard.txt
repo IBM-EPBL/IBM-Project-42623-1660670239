@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <body style="background-color:powderblue;">
+	 <h1 title="Brand name" class="logo-title">
+      <center> <h3 style="color:blue;">User profile</h3>
+				</h1>
+  <div class="dropdown">
+  <button class="dropbtn">Home</button>
+  <div class="dropdown-content">
+  <a href="#">My Queries</a><br>
+  <a href="#">My Account</a><br>
+    <a href="#">Chatbot</a>
+  </div><br><br>
+    				</h1>
+  <div class="dropdown">
+  <button class="dropbtn">Dashboard</button>
+  <div class="dropdown-content">
+  <a href="#">Register</a><br>
+  <a href="#">Login</a><br>
+    <a href="#">Create Ticket</a><br>
+     <a href="#">Change password</a><br>
+  <a href="#">Ticket Status</a><br>
+    <a href="#"> Logout</a>
+  </div>
+    </body>
+    
